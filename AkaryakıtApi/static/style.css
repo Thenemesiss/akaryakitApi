@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(24, 24, 43);
+}
+
+#title {
+    color: rgb(255, 255, 255);
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 100px;
+    font-style: italic;
+    
+}
+
+#dec {
+    color: rgb(77, 167, 82);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 10px
+}
+
+#content {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 10px
+
+}
+
+#name {
+    color: rgb(224, 171, 70);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 30px
+}
+
+#imageSA {
+    border-radius: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    margin-top: 30px;
+    
+}
